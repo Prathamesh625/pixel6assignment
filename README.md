@@ -2,7 +2,7 @@
 # Installation steps 
 
 1. step 1
-clone the respository 
+clone the repository 
 
 2. step 2
 npm install 
